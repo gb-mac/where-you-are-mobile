@@ -31,7 +31,7 @@ Items placed at GPS coordinates via this app are claimable by desktop players at
 
 | Component | Choice | Notes |
 |-----------|--------|-------|
-| Framework | TBD (React Native / Flutter / Unity AR) | Decision pending |
+| Framework | Unity 2022.3 LTS + AR Foundation 5.1 | Decided 2026-03-17 |
 | AR | ARCore (Android) / ARKit (iOS) | Camera + GPS overlay |
 | Maps | Google Maps SDK or Mapbox | Digital twin base layer |
 | GPS | Native device GPS | High accuracy required |
@@ -72,7 +72,7 @@ Same structure as the desktop repo. Each agent reads this file first.
 ## Current Status
 
 - [x] Repo initialized
-- [ ] Tech stack decision (React Native vs Flutter vs Unity AR)
+- [x] Tech stack decision → Unity 2022.3 LTS + AR Foundation 5.1
 - [ ] Shared backend API design
 - [ ] AR prototype (item placement at GPS coord)
 - [ ] Cross-platform item state sync with desktop game

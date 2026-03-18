@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "com.unity.xr.arfoundation": "5.1.5",
+    "com.unity.xr.arcore": "5.1.5",
+    "com.unity.xr.arkit": "5.1.5",
+    "com.unity.inputsystem": "1.8.2",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.mobile.notifications": "2.3.2",
+    "com.unity.xr.management": "4.4.1",
+    "com.unity.burst": "1.8.18",
+    "com.unity.collections": "2.4.4"
+  }
+}
